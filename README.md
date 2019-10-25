@@ -1,2 +1,2 @@
 # Hello-World
-A little begin.
+For a brand new one.
